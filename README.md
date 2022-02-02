@@ -6,10 +6,10 @@
 - 📫 e-mail: gabriela.veloso.dev@gmail.com
   
   <div>
- <a href="https://github.com/lygiadias/github-readme-stats">
+ <a href="https://github.com/gabriela-veloso/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriela-veloso&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/lygiadias/convoychat">
+<a href="https://github.com/gabriela-veloso/convoychat">
   <img align="top" width=285 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-veloso&theme=tokyonight" />
 </a 
   </div>
