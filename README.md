@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriela Veloso 👋
 
 - 🔭 Materials Engineering - CEFET-MG
-- 🔭 Master's Student - Materials Engineering - CEFET-MG 
+- 🔭 Master's at Materials Engineering - CEFET-MG 
 - 🌱 Trybe Web Development Student
 - 📫 e-mail: gabriela.veloso.dev@gmail.com
   
