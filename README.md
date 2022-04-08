@@ -13,11 +13,21 @@
   <img align="top" width=285 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-veloso&theme=tokyonight" />
 </a 
   </div>
- <div style="display: inline-block"><br>
-   <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-   <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-   <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+ <div align="center" style="display: inline_block"><br>
+    <img align="center" alt="Gabi-GIT" height="35" width="45" src="https://img.icons8.com/color/48/000000/git.png">
+  <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabi-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gabi-TypeScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Gabi-linux" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" />
+  <img align="center" alt="Gabi-Jest" height="30" width="35" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Gabi-RTL" height="35" width="40" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" />
+  <img align="center" alt="Gabi-Docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Gabi-SQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Gabi-Mongo-DB" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Gabi-NODE" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" />
 
   </div>
   
