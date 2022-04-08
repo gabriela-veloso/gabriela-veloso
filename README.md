@@ -13,6 +13,7 @@
   <img align="top" width=285 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-veloso&theme=tokyonight" />
 </a 
   </div>
+  <h2 align="center">My Skills - Learning :abacus: :notebook: :desktop_computer:</h2> 
  <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Gabi-GIT" height="35" width="45" src="https://img.icons8.com/color/48/000000/git.png">
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
