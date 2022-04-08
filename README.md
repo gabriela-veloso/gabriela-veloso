@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriela-veloso&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/gabriela-veloso/convoychat">
-  <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-veloso&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-veloso&layout=compact&langs_count=7&theme=dracula"/>
 </a 
   </div>
   <h2 align="center">My Skills - Learning :abacus: :notebook: :desktop_computer:</h2> 
