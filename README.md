@@ -7,7 +7,7 @@
   
   <div>
  <a href="https://github.com/gabriela-veloso/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriela-veloso&show_icons=true&theme=tokyonight" />
+  <img align="center" width=285 src="https://github-readme-stats.vercel.app/api?username=gabriela-veloso&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/gabriela-veloso/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-veloso&layout=compact&langs_count=7&theme=dracula"/>
