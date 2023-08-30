@@ -2,7 +2,7 @@
 
 - 🔭 Materials Engineering - CEFET-MG
 - 🔭 Master's at Materials Engineering - CEFET-MG 
-- 🌱 Trybe Web Development Student
+- 🌱 Web Development - Trybe 
 - 📫 e-mail: gabriela.veloso.dev@gmail.com
   
   <div>
